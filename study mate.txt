@@ -1,0 +1,12 @@
+programming roadmap :
+1.python
+2.javascript
+3.html
+4.css
+5.R
+6.ruby
+7.java
+8.elixir
+Mobile app:
+1.kotlin(android)
+2.swift(ios)
